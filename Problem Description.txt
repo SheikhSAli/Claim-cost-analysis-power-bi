@@ -1,0 +1,20 @@
+BI Test
+
+Tool to be used Power BI
+" ABC company limited places medical insurance program for its employee with insurer XYZ.  
+The management is worrying about increasing claim cost and trying to identify factors influencing the claim cost. 
+An analyst has advised that cost mainly varies by product and is also affected by nature of disease, location, gender, and dep type. 
+However, the analyst has not been able to confirm his advice providing enough statistical evidence. 
+ 
+You are asked to create a dashboard to analyse claims and provide insights. 
+And by using appropriate statistical methods and hypothesis test,
+can you advise the management that you believe are the key factors that influence the cost.
+
+Assumption : 
+You have four users as User A, User B, User C & User D.
+User A has Access only on Dept Type Child, User B has Access only on Dept Type Member,
+User C has Access only on Dept Type Spouse and User D has access on all the data(i.e. Child, Member and Spouse Data).
+Each User should be able to see their data only. 
+Also the report should notify User D if the total claim cost is above the 3 CR.
+ 
+
